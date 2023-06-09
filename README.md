@@ -1,1 +1,1 @@
-# Assembly-MIPS-Lista-1![Uploading Lista Assembly mips.png…]()
+# Assembly-MIPS-Lista-1!
